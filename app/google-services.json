@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "902710871170",
+    "firebase_url": "https://gps-application-8ae35.firebaseio.com",
+    "project_id": "gps-application-8ae35",
+    "storage_bucket": "gps-application-8ae35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902710871170:android:276a46587bec7aab",
+        "android_client_info": {
+          "package_name": "combi.combiappfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902710871170-d29iqjtqi312ipnd13fr03k6tckon44c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "combi.combiappfirebase",
+            "certificate_hash": "d65a23b4993846a5066682ac2e5a128e3525626f"
+          }
+        },
+        {
+          "client_id": "902710871170-lac3s2qc2odca89dbidria0m9emufu9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP5yrRfNGEdKfxQO9eUlLIghircHLyCJE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902710871170-lac3s2qc2odca89dbidria0m9emufu9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
